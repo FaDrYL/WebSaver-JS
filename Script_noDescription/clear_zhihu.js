@@ -12,9 +12,7 @@ Javascript:
       for(var i = 0; i < block_classes.length; i++){
           var block_elements = document.getElementsByClassName(block_classes[i]);
           if(block_elements != null){
-              // clear all element that with "this" class name.
               for(var j = 0; j < block_elements.length; j++){
-                  // clear, unshown
                   block_elements[j].style.display='none';
               }
           }
