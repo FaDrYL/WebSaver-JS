@@ -8,6 +8,10 @@ Google Play (暂无)
 ## JavaScript 脚本列表
 直接复制后在设置-自定义JavaScript脚本中粘贴既可
 
+#### 说明：
+- Script_withDescription/ 文件夹中的脚本有注释，及自定义项的解释。
+- Script_noDescription/ 文件夹中的脚本没有注释，可以直接复制及粘贴到设置中。
+
 #### 列表:
 
 | 脚本 Script      | 贡献者 Contributor |
