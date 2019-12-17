@@ -7,5 +7,9 @@ Google Play (暂无)
 
 ## JavaScript 脚本列表
 直接复制后在设置-自定义JavaScript脚本中粘贴既可
+
 #### 列表:
-[知乎去糟粕](https://github.com/FaDrYL/WebSaver-JS/blob/master/Script_noDescription/clear_zhihu.js)
+
+| 脚本 Script      | 贡献者 Contributor |
+| :-----------: | :-----------: |
+| [知乎去糟粕(Clear ZhiHu)](https://github.com/FaDrYL/WebSaver-JS/blob/master/Script_noDescription/clear_zhihu.js)      | \_YL\_       |
