@@ -1,11 +1,11 @@
 # WebSaver-JS
 一些适用于“网页另存为 · Web Saver”的 JavaScript 脚本。
 
-## App下载地址
+## App 下载地址
 [酷安(CoolApk)](https://www.coolapk.com/apk/com.yl.fadr.websaver)  
-[Google Play (暂无)]()
+Google Play (暂无)
 
-## JavaScript脚本列表
+## JavaScript 脚本列表
 直接复制后在设置-自定义JavaScript脚本中粘贴既可
 #### 列表:
 [知乎去糟粕](https://github.com/FaDrYL/WebSaver-JS/blob/master/Script_noDescription/clear_zhihu.js)
