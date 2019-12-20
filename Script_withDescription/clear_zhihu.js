@@ -1,8 +1,9 @@
 /*
  * Script Name: clear_zhihu.js
  * Author: FaDr_YL (_YL_)
- * Last Modified: 2019/12/16
- * Description: Block some useless element to make mobile website version of "zhihu" more clearly.
+ * Last Modified: 2019/12/20
+ * Version: 1.1
+ * Description: Block some useless element to make "zhihu" more clearly.
  */
 
 
