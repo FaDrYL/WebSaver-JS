@@ -14,6 +14,6 @@ Google Play (暂无)
 
 #### 列表:
 
-| 脚本 Script      | 贡献者 Contributor |
-| :-----------: | :-----------: |
-| [知乎去糟粕(Clear ZhiHu)](https://github.com/FaDrYL/WebSaver-JS/blob/master/Script_noDescription/clear_zhihu.js)      | \_YL\_       |
+| 脚本 Script      | 注释版 Comment      | 贡献者 Contributor |
+| :-----------: | :-----------: | :-----------: |
+| [知乎去糟粕(Clear ZhiHu)](https://github.com/FaDrYL/WebSaver-JS/blob/master/Script_noDescription/clear_zhihu.js) | [注释版(Comment Version)](https://github.com/FaDrYL/WebSaver-JS/blob/master/Script_withDescription/clear_zhihu.js) | \_YL\_ |
