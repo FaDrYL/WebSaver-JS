@@ -3,7 +3,7 @@
 
 ## App 下载地址
 [酷安(CoolApk)](https://www.coolapk.com/apk/com.yl.fadr.websaver)  
-Google Play (暂无)
+[Google Play](https://play.google.com/store/apps/details?id=com.yl.fadr.websaver)
 
 ## JavaScript 脚本列表
 直接复制后在设置-自定义JavaScript脚本中粘贴既可
